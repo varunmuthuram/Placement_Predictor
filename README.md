@@ -1,2 +1,2 @@
 # Placement_Predictor
-A way to check if you will be placed or not
+Both the beginner tasks are in the same repo, just forgot to rename it
